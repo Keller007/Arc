@@ -1,0 +1,12 @@
+h1 {
+  letter-spacing: 0.2em;
+  padding: 0 0 0.3em;
+  font-size: calc(var(--index) * 2.8);
+  font-weight: 200;
+  opacity: 0.9;
+}
+
+div {
+  letter-spacing: 0.05em;
+  font-size: calc(var(--index) * 1.8);
+}
